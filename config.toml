@@ -41,6 +41,7 @@ names = ["Hagezi Ultimate - TIF"]
 "META Tracker Allow"      = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/meta-tracker-allow-folder.json"
 "Microsoft Tracker Allow" = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/microsoft-allow-folder.json"
 "Known Issues allow"      = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/ultimate-known_issues-allow-folder.json"
+"Adobe Telemetry"         = "https://raw.githubusercontent.com/ignaciocastro/a-dove-is-dumb/main/hagezi.json"
 
 # =============================================================================
 # PROFILE → FOLDER MAPPINGS
@@ -50,4 +51,4 @@ names = ["Hagezi Ultimate - TIF"]
 # =============================================================================
 
 [profile_folders]
-"Hagezi Ultimate - TIF"     = ["Badware Hoster", "Most Abused TLDs", "Referral Allow", "META Tracker Allow", "Microsoft Tracker Allow", "Known Issues allow"]
+"Hagezi Ultimate - TIF"     = ["Badware Hoster", "Most Abused TLDs", "Referral Allow", "META Tracker Allow", "Microsoft Tracker Allow", "Known Issues allow", "Adobe Telemetry"]

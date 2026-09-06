@@ -50,4 +50,4 @@ names = ["Hagezi Ultimate - TIF"]
 # =============================================================================
 
 [profile_folders]
-Hagezi Ultimate - TIF     = ["Badware Hoster", "Most Abused TLDs", "Referral Allow", "META Tracker Allow", "Microsoft Tracker Allow", "Known Issues allow"]
+"Hagezi Ultimate - TIF"     = ["Badware Hoster", "Most Abused TLDs", "Referral Allow", "META Tracker Allow", "Microsoft Tracker Allow", "Known Issues allow"]
